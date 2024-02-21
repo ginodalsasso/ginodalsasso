@@ -1,3 +1,5 @@
+![Cover](https://github.com/ginodalsasso/ginodalsasso/blob/readme_img/bannierelinkedin.png)
+ 
  👋🏻 Hey! I'm Gino from Strasbourg, enthusiastic about the world of software development. Currently undergoing training to become a developer, I am dedicated to acquiring new skills and taking on stimulating challenges.
 
 - Learning technologies: HTML, CSS, PHP at the moment.
