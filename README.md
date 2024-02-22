@@ -1,19 +1,27 @@
 ![Cover](https://github.com/ginodalsasso/ginodalsasso/blob/readme_img/bannierelinkedin.png)
  
- 👋🏻 Hey! I'm Gino from Strasbourg, enthusiastic about the world of software development. Currently undergoing training to become a developer, I am dedicated to acquiring new skills and taking on stimulating challenges.
-
-- Learning technologies: HTML, CSS, PHP at the moment.
-- Tools: Git, GitHub, VS Code.
-- In constant search of improvement and full of motivation.
+ 👋🏻 Hey! I'm Gino from Strasbourg (France), enthusiastic about the world of software development. Currently undergoing training to become a developer, I am dedicated to acquiring new skills and taking on stimulating challenges.
 
 
-**My projetcs**
-- Hope to contribute to open-source projects in order to help poeple in the future.
-- Develop advanced skills in software and website development.
+- Learning technologies:
+  
+<img src="https://skillicons.dev/icons?i=html,css,php,js,mysql" />
+
+- Tools:
+  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps" />
+
+In constant search of improvement and full of motivation.
 
 
- **Contact**
-- How to reach me: <a href="https://www.linkedin.com/in/gino-dalsasso">Linkedin.</a>
+<h2>**My projetcs**</h2>
+
+ - Hope to contribute to open-source projects in order to help poeple in the future.
+ - Develop advanced skills in software and website development.
+
+
+ <h2>**Contact**</h2>
+How to reach me: <a href="https://www.linkedin.com/in/gino-dalsasso">Linkedin</a>
 
 
 Feel free to explore my projects and exercises, or reach out to discuss anything related to development. 🚀
