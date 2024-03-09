@@ -1,5 +1,6 @@
-![Cover](https://github.com/ginodalsasso/ginodalsasso/blob/readme_img/bannierelinkedin.png)
- 
+
+![github_banner](https://github.com/ginodalsasso/ginodalsasso/assets/159161313/25b37daa-3537-4cb1-a617-84a46e5159be)
+
  👋🏻 Hey! I'm Gino from Strasbourg (France), enthusiastic about the world of software development. Currently undergoing training to become a developer, I am dedicated to acquiring new skills and taking on stimulating challenges.
 
 
