@@ -6,11 +6,11 @@
 
 - Learning technologies:
   
-<img src="https://skillicons.dev/icons?i=html,css,php,js,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,symfony" />
 
 - Tools:
   
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps,notion,docker" />
 
 In constant search of improvement and full of motivation.
 
