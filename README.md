@@ -6,7 +6,7 @@ Passionate about crafting digital solutions. Currently undergoing training to be
 
 ## Learning Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,symfony,jquery" alt="Learning Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,symfony,jquery,twig" alt="Learning Technologies" />
 </p>
 
 ## Tools
