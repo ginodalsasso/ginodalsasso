@@ -32,6 +32,5 @@ From shaping wood into masterpieces with chisels and hammers to crafting digital
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gino&show_icons=true&theme=discord_old_blurple" alt="Gino's GitHub stats" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" />
 </p>
