@@ -5,14 +5,14 @@
 Passionate about crafting digital solutions. Currently undergoing training to become a proficient developer, I'm dedicated to acquiring new skills and taking on stimulating challenges.
 
 ## Learning Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,symfony,jquery,twig" alt="Learning Technologies" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,symfony,react,tailwind,jquery,mongodb" alt="Learning Technologies" />
+
 
 ## Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps,notion,docker" alt="Tools" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps,notion,docker,vite" alt="Tools" />
+
 
 I am in constant search of improvement and full of motivation.
 
