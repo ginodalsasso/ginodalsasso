@@ -22,7 +22,7 @@ I am in constant search of improvement and full of motivation.
 - **Diverse Portfolio:** Building a diverse portfolio of projects showcasing my growing expertise.
 
 ## Contact
-How to reach me: [LinkedIn](https://www.linkedin.com/in/gino-dalsasso)
+How to reach me: [LinkedIn](https://www.linkedin.com/in/gino-dalsasso) or you can directly contact me through my portfolio: [gino-dalsasso.com](https://gino-dalsasso.com/)
 
 Feel free to explore my projects and exercises, or reach out to discuss anything related to development. I'm always open to collaboration and learning opportunities! 🚀
 
