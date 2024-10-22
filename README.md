@@ -11,7 +11,7 @@ Passionate about crafting digital solutions. Currently undergoing training to be
 
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps,notion,docker,vite" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps,notion,docker,vite,nodejs" alt="Tools" />
 
 
 I am in constant search of improvement and full of motivation.
