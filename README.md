@@ -1,30 +1,27 @@
-![GitHub Banner](https://github.com/ginodalsasso/ginodalsasso/assets/159161313/25b37daa-3537-4cb1-a617-84a46e5159be)
-
 # 👋🏻 Hey! I'm Gino from Strasbourg, France
 
-Passionate about crafting digital solutions. Currently undergoing training to become a proficient developer, I'm dedicated to acquiring new skills and taking on stimulating challenges.
-
-## Learning Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,php,js,ts,mysql,symfony,react,tailwind,jquery,mongodb" alt="Learning Technologies" />
+As a teenager, I built websites and forums with the tools of that era, deeply passionate about computers and the internet. Life took me on a 17-year detour in carpentry, where I developed patience, adaptability, and meticulous attention to detail. Eventually, I felt drawn back to what truly excited me—technology. I left everything behind to immerse myself in formal training for a year, and have been self-learning for the past 2 years, constantly updating my skills, creating projects, and feeding my insatiable curiosity.
 
 
-## Tools
+## Skills
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps,notion,docker,vite,nodejs" alt="Tools" />
+|Category|Tools|
+|----------|-------|
+| **Technologies & Frameworks** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,jquery,php,symfony,nextjs" alt="technologies-frameworks-icons" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="databases-icons" /> |
+| **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,vite,nodejs" alt="development-tools-icons" /> |
+| **Design Tools** | <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="design-tools-icons" /> |
+| **Project Management** | <img src="https://skillicons.dev/icons?i=obsidian,notion,trello" alt="project-managment-icons" /> |
+| **CMS** | <img src="https://skillicons.dev/icons?i=webflow,wordpress" alt="cms-icons" /> |
+</div>
 
-
-I am in constant search of improvement and full of motivation.
-
-## My Projects
-- **Open-Source Contributions:** I aim to contribute to open-source projects to make a positive impact on the developer community.
-- **Advanced Development Skills:** Developing advanced skills in software and website development.
-- **Diverse Portfolio:** Building a diverse portfolio of projects showcasing my growing expertise.
 
 ## Contact
 How to reach me: [LinkedIn](https://www.linkedin.com/in/gino-dalsasso) or you can directly contact me through my portfolio: [gino-dalsasso.com](https://gino-dalsasso.com/)
 
-Feel free to explore my projects and exercises, or reach out to discuss anything related to development. I'm always open to collaboration and learning opportunities! 🚀
+Feel free to explore my projects, or reach out to discuss anything related to development. I'm always open to collaboration and learning opportunities! 🚀
+
 
 ## Fun Fact
 From shaping wood into masterpieces with chisels and hammers to crafting digital wonders with code, I transitioned from a skilled carpenter to a passionate developer, seamlessly blending the artistry of both worlds. 🔥
