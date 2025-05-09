@@ -14,7 +14,7 @@ As a teenager, I built websites and forums with the tools of that era, deeply pa
 | **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,vite,nodejs" alt="development-tools-icons" /> |
 | **Design Tools** | <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="design-tools-icons" /> |
 | **Project Management** | <img src="https://skillicons.dev/icons?i=obsidian,notion,trello" alt="project-managment-icons" /> |
-| **CMS** | <img src="https://skillicons.dev/icons?i=webflow,wordpress" alt="cms-icons" /> |
+| **CMS** | <img src="https://skillicons.dev/icons?i=webflow,wordpress,shopify" alt="cms-icons" /> |
 </div>
 
 
