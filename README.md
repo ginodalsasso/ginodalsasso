@@ -1,6 +1,6 @@
 # 👋🏻 Hey! I'm Gino from Strasbourg, France
 
-As a teenager, I built websites and forums with the tools of that era, deeply passionate about computers and the internet. Life took me on a 17-year detour in carpentry, where I developed patience, adaptability, and meticulous attention to detail. Eventually, I felt drawn back to what truly excited me—technology. I left everything behind to immerse myself in formal training for a year, and have been self-learning for the past 2 years, constantly updating my skills, creating projects, and feeding my insatiable curiosity.
+As a teenager, I built websites and forums with the tools of that era, deeply passionate about computers and the internet. Life took me on a 17-year journey in carpentry, where I honed patience, adaptability, and meticulous attention to detail. This path included a transformative two-year chapter in Australia, where I worked, improved my English, and gained broader perspectives that opened my mind to new possibilities. The call of technology never truly faded, and I finally decided to return to what genuinely excited me. I left everything behind to immerse myself in formal training for a year, and have been self-learning for the past 2 years, constantly updating my skills, creating projects, and feeding my insatiable curiosity.
 
 
 ## Skills
