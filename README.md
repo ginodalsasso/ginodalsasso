@@ -9,7 +9,7 @@ As a teenager, I built websites and forums with the tools of that era, deeply pa
 |Category|Tools|
 |----------|-------|
 | **Technologies** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" alt="technologies-icons" /> |
-| **Frameworks and librairies** | <img src="https://skillicons.dev/icons?i=symfony,nextjs,react,tailwind,jquery" alt="technologies-frameworks-librairies-icons" /> |
+| **Frameworks and librairies** | <img src="https://skillicons.dev/icons?i=symfony,dotnet,nextjs,react,tailwind,jquery" alt="technologies-frameworks-librairies-icons" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="databases-icons" /> |
 | **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,vite,nodejs" alt="development-tools-icons" /> |
 | **Design Tools** | <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="design-tools-icons" /> |
